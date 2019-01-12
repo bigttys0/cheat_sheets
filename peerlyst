@@ -1,0 +1,304 @@
+Penetration testing and webapp cheat sheets:
+mobile application pentesting: https://www.peerlyst.com/posts/mobile-application-penetration-testing-cheat-sheet
+python for pentesting‍ Python Penetration Testing Cheet Sheet
+web application penetration testing‍ Web Application Penetration Testing Cheat Sheet
+pentesting‍ https://github.com/jshaw87/Cheatsheets/blob/master/Cheatsheet_PenTesting.txt
+reverse shell‍ Reverse Shell and another reverse shell
+XSS Vectors https://sql--injection.blogspot.lu/p/blog-page_80.html and cookie stealing xss vectors‍ cookie stealing‍
+Penetration testing tools https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/#port-scanning
+Penetration testing & exploit development https://imgur.com/Mr9pvq9
+Printer security testing http://hacking-printers.net/wiki/index.php/Printer_Security_Testing_Cheat_Sheet
+NMAP CHEAT-SHEET (Nmap Scanning Types, Scanning Commands , NSE Scripts)
+nmap (Printable, 2013): https://pen-testing.sans.org/blog/2013/10/08/nmap-cheat-sheet-1-0/
+Nmap (Not printable, date unknown): https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/
+Nmap 5(older version, not printable): https://nmapcookbook.blogspot.lu/2010/02/nmap-cheat-sheet.html
+Nmap 5 (older version, printable) http://www.cheat-sheets.org/saved-copy/Nmap5.cheatsheet.eng.v1.pdf
+cobalt strike beacon‍ https://github.com/HarmJ0y/CheatSheets/blob/master/Beacon.pdf
+Java-Deserialization‍ https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
+Metasploit https://www.tunnelsup.com/metasploit-cheat-sheet/
+Another Metasploit: http://resources.infosecinstitute.com/metasploit-cheat-sheet/
+Powerupsql https://github.com/NetSPI/PowerUpSQL/wiki/PowerUpSQL-CheatSheet
+Scapy https://pen-testing.sans.org/blog/2016/04/05/scapy-cheat-sheet-from-sans-sec560#
+HTTP status codes‍ http://suso.suso.org/docs/infosheets/HTTP_status_codes.gif HTTP‍
+Beacon https://github.com/HarmJ0y/CheatSheets/blob/master/Beacon.pdf
+Powershellempire https://github.com/HarmJ0y/CheatSheets/blob/master/Empire.pdf
+Powersploit https://github.com/HarmJ0y/CheatSheets/blob/master/PowerSploit.pdf
+PowerUp https://github.com/HarmJ0y/CheatSheets/blob/master/PowerUp.pdf
+Powerview https://github.com/HarmJ0y/CheatSheets/blob/master/PowerView.pdf
+Vim‍ https://people.csail.mit.edu/vgod/vim/vim-cheat-sheet-en.pdf
+Attack Surface Analysis attack surface analysis‍
+XSS Filter Evasion XSS filter evasion‍
+REST Assessment REST assessment‍ api security‍
+Web Application Security Testing web application testing‍
+Android Testing android security‍
+IOS Developer iOS internals‍
+Mobile Jailbreaking mobile jailbreaking‍
+Comprehensive sql injection‍ https://sqlwiki.netspi.com/
+sql injection‍ https://www.veracode.com/security/sql-injection
+SQL injection: https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
+MYSQL sql injection http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet
+Password cracking: https://www.unix-ninja.com/p/A_cheat-sheet_for_password_crackers
+SSL manual testing: http://www.exploresecurity.com/wp-content/uploads/custom/SSL_manual_cheatsheet.html
+Python python‍
+OWASP Webapp checklist owasp‍ Owasp webapp checklist‍
+AIXBuild‍ https://github.com/jshaw87/Cheatsheets/blob/master/Cheatsheet_AIXBuild.txt
+AVBypass‍ with Veil https://github.com/jshaw87/Cheatsheets/blob/master/Cheatsheet_AVBypass.txt
+Bash Scripting https://github.com/jshaw87/Cheatsheets/blob/master/Cheatsheet_BashScripting.txt
+IKEScan for aggresive mode IKEScan‍ aggressive mode‍
+LinuxPrivilegeEsc Linux privilege escalation‍
+VOIP https://github.com/jshaw87/Cheatsheets/blob/master/Cheatsheet_VOIP.txt
+Wireless Testing https://github.com/jshaw87/Cheatsheets/blob/master/Cheatsheet_WirelessTesting.txt wireless testing‍
+CEH Cheat Sheet Exercises CEH exercises‍
+Meterpreter Cheat Sheet meterpreter tips‍
+netcat netcat tips‍
+Nessus NMAP Commands Tenable Nessus‍ NMAP commands‍
+NMap Mindmap Reference mindmap‍
+NMap Quick Reference Guide nmap‍
+Reconnaissance Reference Sheet reconnaissance‍
+Tripwire Common Security Exploit-Vuln Matrix
+Linux - Bourne Shell Quick Reference.pdf Bourne Shell‍
+Linux - Quick Reference Card.pdf linux‍
+Linux - Shell Cheat Sheet.pdf
+Linux - Shell Scrip Cheat Sheet.pdf
+Linux - tcpdump.pdf
+Penetration Testing - Penetration Testing Framework (vulnerabilityassessment.co.uk) penetration testing framework‍
+XML Vulnerabilities and Attacks cheatsheet
+Memory segmentation cheat sheet
+IP, DNS & Domain Enumeration Cheatsheet
+Local Linux Enumeration & Privilege Escalation
+hashcat‍ Nice cheatsheet for Hashcat by Kent R. Ickler / BHIS https://www.blackhillsinfosec.com/hashcat-4-10-cheat-sheet-v-1-2018-1/ via Martin Boller‍
+BASH Shell‍ https://goalkicker.com/BashBook/ thanks InfosecTDK‍
+Subdomains Enumeration Cheat Sheet subdomain enumeration‍
+SSH Cheat Sheet
+John The Ripper Hash Formats
+Informix SQL Injection Cheat Sheet
+MSSQL Injection Cheat Sheet
+Oracle SQL Injection Cheat Sheet
+MySQL SQL Injection Cheat Sheet
+Postgres SQL Injection Cheat Sheet
+DB2 SQL Injection Cheat Sheet
+Ingres SQL Injection Cheat Sheet
+_____________________________________________________________
+
+Password cracking cheat sheets
+password cracking: https://www.unix-ninja.com/p/A_cheat-sheet_for_password_crackers
+Nice cheatsheet for Hashcat by Kent R. Ickler / BHIS https://www.blackhillsinfosec.com/hashcat-4-10-cheat-sheet-v-1-2018-1/
+_____________________________________________________________
+
+Forensics cheat sheets
+master boot record‍, guid partition table‍, NTFS‍ volume boot record‍, Master file table record‍, standard information attribute, $Attribute list attribute, $file name attribute, and more forensics‍ posters/cheat sheets: https://github.com/Invoke-IR/ForensicPosters
+Mounting DD Images https://sift.readthedocs.io/en/latest/cheatsheet/
+XP only - old https://www.sans.org/media/score/checklists/ID-Windows.pdf
+https://www.sans.org/media/score/checklists/ID-Linux.pdf
+https://github.com/Invoke-IR/ForensicPosters forensics posters‍
+Regex / PCRE https://github.com/niklongstone/regular-expression-cheat-sheet
+Memory segmentation cheat sheet
+Volatility Memory Forensics Cheat Sheet - Sans Forensics
+
+Volatility Cheat Sheet - The Volatility Foundation
+
+Known command-lines of fileless malicious executions.
+_____________________________________________________________
+
+CISO, blue team, Sysadmin and webadmin cheat sheets
+Antivirus Event Analysis Cheat Sheet Version 1.2
+TLS Cheatsheet by Sean Wright‍
+Windows Logging ATT&CK matrix
+Windows logging Sysmon LOG-MD cheat
+Windows Advanced Logging Cheat Sheet
+CSP cheat sheet https://scotthelme.co.uk/csp-cheat-sheet/#require-sri-for (via Scott Helme‍)
+HSTS Cheat Sheet HSTS‍
+HPKP Cheat Sheet HPKP‍
+HTTPS Cheat Sheet HTTPS‍
+Performance Cheat Sheet HTTPS performance‍
+HTTP Status codes http://suso.suso.org/docs/infosheets/HTTP_status_codes.gif
+AWS Cheat sheet‍ https://posts.specterops.io/amazon-web-services-cheatsheet-59871854de8c
+Google compute cheat sheet‍ https://posts.specterops.io/clouds-google-compute-cheatsheet-c063316d0c2b
+Microsoft azure cheat sheet‍ https://posts.specterops.io/microsoft-azure-cheatsheet-d75223ddab65
+The windows logging Cheat Sheet https://www.malwarearchaeology.com/s/Windows-Logging-Cheat-Sheet_ver_Oct_2016.pdf
+The Windows Splunk Logging Cheat Sheet Splunk logging‍
+The Windows File Auditing Logging Cheat Sheet file auditing logging‍
+The Windows Registry Auditing Logging Cheat Sheet registry auditing logging‍
+The Windows PowerShell Logging Cheat Sheet powershell logging‍
+Curl HTTP https://bagder.github.io/curl-cheat-sheet/http-sheet.html
+Virtual Patching virtual patching‍
+Cloud Control Matrix (CCM) https://cloudsecurityalliance.org/group/cloud-controls-matrix/
+Antivirus Event Analysis (what types of AV alerts should you worry about and why)
+CiscoIOS https://github.com/jshaw87/Cheatsheets/blob/master/Cheatsheet_CiscoIOS.txt
+GPG https://github.com/jshaw87/Cheatsheets/blob/master/Cheatsheet_GPG.txt
+Regex / PCRE‍ https://github.com/niklongstone/regular-expression-cheat-sheet
+Security Onion http://chrissanders.org/2017/06/security-onion-cheat-sheet/
+Linux Security Quick Reference Guide linux security‍
+IP Tables iptables‍
+TCPDump tcpdump‍
+Wireshark Filters wireshark filters‍
+IP Access Lists
+Common Ports common ports‍
+netcat
+Linux Admin Quick Reference
+Crontab Reference
+Networking - Border Gateway Protocol.pdf BGP‍ border gateway protocol‍
+Networking - Cisco IOS IPv4 Access Lists.pdf
+Networking - Cisco IOS Versions.pdf
+Networking - Common TCP-UDP Ports.pdf
+Networking - EIGRP (Enhanced Interior Gateway Routing Protocol).pdf
+Networking - First Hop (Router) Redundancy.pdf
+Networking - Frame Mode MPLS.pdf
+Networking - IEEE 802.11 WirelessLAN.pdf
+Networking - IEEE 802.1X Authentication.pdf
+Networking - IPsec.pdf
+Networking - IPv4 Multicast.pdf
+Networking - IPv4_Subnetting.pdf
+Networking - IPv6.pdf
+Networking - IS-IS.pdf
+Networking - NAT.pdf
+Networking - OSPF.pdf
+Networking - Physical Terminations.pdf
+Networking - PPP.pdf
+Networking - QoS.pdf
+Networking - Spanning Tree.pdf
+Networking - TCPIP.pdf
+Networking - VLANs.pdf
+Networking - Wireshark Display Filters.pdf
+VMware - Reference Card.pdf
+IT Project Cheatsheet Collection
+The illustrated TLS 1.3 connection
+Known command-lines of fileless malicious executions.
+5 Ways to Make Django Admin Safer
+_____________________________________________________________
+
+Threat hunting
+Windows Advanced Logging Cheat Sheet
+Intrusion Discovery Cheat Sheet for Windows
+Intrusion Discovery Cheat Sheet for Linux
+https://www.sans.org/media/score/checklists/ID-Windows.pdf
+https://www.sans.org/media/score/checklists/ID-Linux.pdf
+Regex https://github.com/niklongstone/regular-expression-cheat-sheet
+_____________________________________________________________
+
+Privacy:
+Windows 10 privacy tips
+_____________________________________________________________
+
+Malware analysis and reverse engineering:
+Malware analysis: https://github.com/hslatman/cheatsheets/blob/master/sheets/cheat%20sheet%20reverse%20v5.png
+ADB: https://github.com/maldroid/adb_cheatsheet
+GDB vs windbg https://twitter.com/it4sec/status/828159963654668288/photo/1
+REMNUX distro: https://zeltser.com/media/docs/remnux-malware-analysis-tips.pdf
+IDAPro: https://securedorg.github.io/idacheatsheet.html
+Regex https://github.com/niklongstone/regular-expression-cheat-sheet
+windbg‍ Windbg-Cheat-Sheet
+Memory segmentation cheat sheet
+Unpacking for dummies
+_____________________________________________________________
+
+Text editors
+VIM https://people.csail.mit.edu/vgod/vim/vim-cheat-sheet-en.pdf
+_____________________________________________________________
+
+Developers/Builders
+Angular and the OWASP top 10
+3rd Party Javascript Management
+Access Control
+AJAX Security Cheat Sheet
+Authentication (ES)
+Bean Validation Cheat Sheet
+Choosing and Using Security Questions
+Clickjacking Defense
+C-Based Toolchain Hardening
+Credential Stuffing Prevention Cheat Sheet
+Cross-Site Request Forgery (CSRF) Prevention
+Cryptographic Storage
+Deserialization
+DOM based XSS Prevention
+Forgot Password
+HTML5 Security
+HTTP Strict Transport Security
+Injection Prevention Cheat Sheet
+Input Validation
+JAAS
+LDAP Injection Prevention
+Logging
+Mass Assignment Cheat Sheet
+.NET Security
+OWASP Top Ten
+Password Storage
+Pinning
+Query Parameterization
+Ruby on Rails
+REST Security
+Session Management
+SAML Security
+SQL Injection Prevention
+Transaction Authorization
+Transport Layer Protection
+Unvalidated Redirects and Forwards
+User Privacy Protection
+Web Service Security
+XSS (Cross Site Scripting) Prevention
+XML External Entity (XXE) Prevention Cheat Sheet
+Python
+Linux Commands Reference Card
+One page Linux Manual
+Unix Tool Box
+Treebeard’s Unix Cheat Sheet
+Terminal Shortcuts
+More Terminal Shortcuts
+Useful Gnome/KDE shortcuts
+KDE Cheat Sheet
+Vi Cheat Sheet
+Concise Vim Cheat Sheet
+awk nawk and gawk cheat sheet
+Sed Stream Editor Cheat Sheet
+Screen Quick Reference
+Screen Terminal Emulator Cheat Sheet
+Vi/Vim Cheat Sheet
+Ubuntu Cheat Sheet
+Debian Cheat Sheet
+HTML - Markdown.pdf
+MAC - OSX Key Combo Reference Guide.pdf
+SQL - MySQL Commands.pdf
+C - Cheat Sheets
+LAMP Cheat Sheet Collection
+Version Control Cheat Sheets List
+Open Source EN
+TDD tools for JavaScript
+Cursive
+Web Accessibility Collection
+Comp. Sci. GCSE (AQA 8520) 
+
+_____________________________________________________________
+
+Owasp cheat-sheets (still in draft/Beta stages):
+Application Security Architecture
+Business Logic Security
+Command Injection Defense Cheat Sheet
+PHP Security
+Regular Expression Security Cheatsheet
+Secure Coding
+Secure SDLC
+Threat Modeling
+Grails Secure Code Review
+IOS Application Security Testing
+Key Management
+Insecure Direct Object Reference Prevention
+Content Security Policy
+_____________________________________________________________
+
+Deep learning/AI/Machine learning
+Keras deep learning
+Numpy
+Pandas
+Pandas
+SciPy
+Matplotlib
+Scikit
+Neural Network Zoo
+ggplot2
+PySpark
+Rstudio
+Penetration test
+
+-----------------------------------------------------------------
+Link aggregations:
+Link aggregation for pentest and blue team
